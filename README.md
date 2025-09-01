@@ -1,4 +1,4 @@
-#MathsBro
+# MathsBro
 MathsBro is a Python-based console game designed for single-player, which focuses on
 improving math skills through an entertaining process of playing. When playing users solve
 randomly generated arithmetic questions in different difficulty modes(Demo, Easy, Medium,
