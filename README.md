@@ -104,16 +104,3 @@ Please add tests and update README/specs for any behaviour changes.
 
 - If input isn't being accepted, ensure the terminal supports stdin and you're running with Python 3.
 - For encoding issues, run Python with UTF-8 or set the terminal encoding appropriately.
-
-## License
-
-No license file is included in this repository. If you want others to reuse or contribute under clear terms, add a `LICENSE` file (for example MIT or Apache-2.0).
-
-## Acknowledgements
-
-- Project specification included in `spec.pdf`.
-- Developed as a console learning tool to practice arithmetic skills.
-
----
-
-*This README was created by the GitHub Copilot Chat Assistant.*
